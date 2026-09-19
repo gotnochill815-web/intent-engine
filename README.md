@@ -402,6 +402,3 @@ https://colab.research.google.com/drive/18pcBM1uG5t35RWpY8OJJoiwyrUl9P09d
 
 ---
 
-# License
-
-This project was developed as part of the **ClickPost AI Engineer Internship Technical Assessment** and is intended for educational and portfolio purposes.
